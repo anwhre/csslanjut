@@ -1,0 +1,219 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 27, 2020, 5:43:28 PM
+    Author     : MSI IDN
+*/
+body{
+background-color: #FAFAFA;
+margin: 0;
+text-align: center;
+font-family: 'Roboto Slab', serif; 
+font-style: bold;
+font-size: 125%;
+}
+
+.navbar img{
+    background-color: #FFFFFF;
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.navbar ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #a6e3e9;
+}
+
+.navbar li {
+    float: right;
+}
+
+.navbar li a {
+    display: block;
+    color: #293130;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar li a:hover{
+    background-color: #cbf1f5;
+}
+
+h1{
+margin: 0 auto 0 auto;    
+font-size: 4.85rem;
+font-family: 'Dancing Script', cursive;
+}
+
+p{
+font-family: 'Roboto Slab', serif; 
+}
+
+
+
+.top-container{
+background-color: #a6e3e9;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+
+.top-container img {
+ margin-top: 10px;
+
+ 
+}
+
+.middle-container{
+ background-color: #FAFAFA
+ 
+}
+
+.hello {
+    text-align: center;
+    margin-top: 10px;
+}
+.hello img {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #a6e3e9;
+    padding: 5px;
+}
+.hello h2 {
+    margin: 5px;
+    font-size: 45px;
+}
+.hello p {
+    width: 50%;
+    margin: 0 auto;
+}
+.profile {
+    text-align: center;
+    margin-top: 50px;
+}
+.profile h2 {
+    margin: 5px;
+    font-size: 30px;
+}
+
+.education {
+    width: 60%;
+    margin: 10px auto;
+    text-align: left;
+}
+.education img {
+    width: 150px;
+    height: 150px;
+    right: 30%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+    background-color: #a6e3e9;
+    padding: 5px;
+}
+
+.education p {
+    margin: 0 auto;
+}
+
+.organization {
+    width: 60%;
+    margin: 50px auto;
+    text-align: left;
+}
+.organization img {
+    width: 150px;
+    height: 150px;
+    right: 30%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+    background-color: #a6e3e9;
+    padding: 5px;
+}
+
+.organization p {
+    margin: 0 auto;
+}
+
+.skills {
+    width: 60%;
+    margin: 50px auto;
+    text-align: left;
+}
+.skills img {
+    width: 150px;
+    height: 150px;
+    right: 30%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+    background-color: #a6e3e9;
+    padding: 5px;
+}
+
+.skills p {
+    margin: 0 auto;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #a6e3e9;
+  padding: 10px;
+}
+
+.bottom-navbar {
+    padding: 10px;
+}
+
+.bottom-navbar a {
+    margin-top: 10px;
+    color: black;
+    padding: 10px 10px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.bottom-navbar a:hover{
+    background-color: #cbf1f5;
+}
+
+.social {
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 5px;
+}
+
+.social a {
+    color: black;
+    padding: 0px 20px;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+
+.social a:hover{
+    background-color: #cbf1f5;
+}
+
+hr {
+    width: 30%;
+    height: 10px;
+    color: #cbf1f5;
+    border-top: solid;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+}
